@@ -12,3 +12,6 @@ This repository demonstrates how Git and GitHub manage a data analytics workflow
 3. Added and committed R script  
 4. Linked to GitHub remote
 
+
+## Purpose
+A sample project to showcase version control best practices.
