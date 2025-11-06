@@ -12,3 +12,6 @@ This repository demonstrates how Git and GitHub manage a data analytics workflow
 3. Added and committed R script  
 4. Linked to GitHub remote
 
+
+## Purpose
+This repo demonstrates Git/GitHub workflows for analytics.
