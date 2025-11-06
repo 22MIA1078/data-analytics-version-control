@@ -14,4 +14,8 @@ This repository demonstrates how Git and GitHub manage a data analytics workflow
 
 
 ## Purpose
+<<<<<<< HEAD
 This repo demonstrates Git/GitHub workflows for analytics.
+=======
+A sample project to showcase version control best practices.
+>>>>>>> feature/add-purpose-alt
