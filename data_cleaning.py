@@ -18,3 +18,4 @@ def clean_data(input_csv, output_csv):
 
 if __name__ == "__main__":
     print("Run: clean_data('raw.csv','clean.csv') in a Python shell")
+    print("Version 1.2")
